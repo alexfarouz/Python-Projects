@@ -1,6 +1,6 @@
-# Python-Project-1
+# Python-Projects
 The first programming assignment from CS112 class at George Mason University
 
-afarouz_201_PA1.py is my code
+afarouz_201_PAX.py is my code
 
-tester1.py is given to test my code
+testerX.py is given to test my code
