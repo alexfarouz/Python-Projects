@@ -1,5 +1,5 @@
 # Python-Projects
-The first programming assignment from CS112 class at George Mason University
+All programming assignments from CS112 class at George Mason University
 
 afarouz_201_PAX.py is my code
 
